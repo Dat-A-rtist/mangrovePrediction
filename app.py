@@ -1,7 +1,14 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import warnings
 from prediction import predict
+warnings.filterwarnings('ignore')
+
+np.float = float    
+np.int = int   #module 'numpy' has no attribute 'int'
+np.object = object    #module 'numpy' has no attribute 'object'
+np.bool = bool    #module 'numpy' has no attribute 'bool'
 
 annsurv_df = pd.read_csv('data/Annual_survival.csv')
 
