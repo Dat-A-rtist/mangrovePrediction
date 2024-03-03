@@ -1,850 +1,850 @@
 Survival,Log_size,Species,Patch_type,Landscape
-1,5.375278408,CB,Connected,10
-1,5.472270674,CB,Connected,10
-1,6.879355804,CB,Connected,10
-1,5.310739887,CB,Connected,10
-1,4.985317486,CB,Connected,10
-1,4.916324615,CB,Connected,10
-1,5.49614311,CB,Connected,10
-0,4.007333185,CB,Connected,10
-0,4.412798293,CB,Connected,10
-0,3.912023005,CB,Connected,10
-0,6.674561392,CB,Connected,10
-0,6.80516869,CB,Connected,10
-0,4.094344562,CB,Connected,10
-0,4.094344562,CB,Connected,10
-0,7.140651122,CB,Connected,10
-0,6.782192056,CB,Connected,10
-0,5.752572639,CB,Connected,10
-0,4.435271149,CB,Connected,10
-0,2.910991045,CB,Connected,10
-0,6.183117431,CB,Connected,10
-0,4.189654742,CB,Connected,10
-0,5.059425458,CB,Connected,10
-0,6.697034248,CB,Connected,10
-0,4.635941845,CB,Connected,10
-0,5.192956851,CB,Connected,10
-0,6.182084907,CB,Connected,10
-0,4.682131227,CB,Rectangular,10
-0,5.338739281,LE,Rectangular,10
-0,3.465735903,CB,Rectangular,10
-0,5.857933154,LE,Connected,10
-0,5.480638923,CB,Rectangular,10
-0,5.66296048,CB,Winged,10
-0,5.298317367,CB,Winged,10
-0,4.818263401,CB,Rectangular,10
-0,6.003887067,CB,Rectangular,10
-0,3.688879454,LE,Connected,10
-0,5.049856007,LE,Connected,10
-0,2.351375257,LE,Connected,10
-0,4.366278278,LE,Connected,10
-0,6.715383386,LE,Connected,10
-0,4.941642423,LE,Connected,10
-0,6.109247583,LE,Connected,10
-0,4.49980967,LE,Connected,10
-0,5.241747015,LE,Connected,10
-0,5.752572639,LE,Connected,10
-0,3.912023005,LE,Connected,10
-0,6.492239835,LE,Connected,10
-0,4.628642542,LE,Connected,10
-0,6.672823772,LE,Connected,10
-0,4.49980967,LE,Connected,10
-0,7.218909708,LE,Connected,10
-0,4.818263401,LE,Connected,10
-0,8.003697339,LE,Connected,10
-0,5.991464547,LE,Connected,10
-0,4.49980967,LE,Connected,10
-0,3.17805383,CB,Rectangular,10
-0,6.499787041,LE,Rectangular,10
-0,7.426549072,LE,Rectangular,10
-0,6.499787041,LE,Rectangular,10
-0,2.825833237,LE,Rectangular,10
-0,6.761572769,CB,Winged,10
-0,6.719013154,LE,Rectangular,10
-0,6.908754779,LE,Rectangular,10
-0,6.43735157,LE,Rectangular,10
-0,5.598421959,LE,Rectangular,10
-0,5.966146739,LE,Rectangular,10
-0,2.351375257,CB,Rectangular,10
-0,5.991464547,CB,Winged,10
-0,4.762173935,CB,Winged,10
-0,5.834810737,CB,Winged,10
-0,3.80666249,CB,Winged,10
-0,2.079441542,LE,Rectangular,10
-0,4.959342,CB,Rectangular,10
-0,4.836281907,LE,Rectangular,10
-0,3.208825489,LE,Rectangular,10
-0,5.049856007,CB,Rectangular,10
-0,8.23270601,LE,Winged,10
-0,6.358708442,CB,Rectangular,10
-0,7.569411792,LE,Winged,10
-0,4.49980967,CB,Rectangular,10
-0,5.609471795,LE,Winged,10
-0,5.952593773,CB,Rectangular,10
-0,2.420368129,LE,Winged,10
-0,6.585481762,LE,Rectangular,10
-0,5.480638923,LE,Rectangular,10
-0,6.329720906,LE,Winged,10
-0,2.772588722,LE,Winged,10
-0,3.113515309,LE,Rectangular,10
-0,6.451654555,LE,Rectangular,10
-0,2.890371758,LE,Winged,10
-0,7.081708586,LE,Rectangular,10
-0,5.480638923,CB,Rectangular,10
-0,7.418180823,LE,Winged,10
-0,4.882801923,CB,Rectangular,10
-0,5.541263545,LE,Rectangular,10
-0,5.395897695,CB,Rectangular,10
-0,6.761572769,LE,Rectangular,10
-0,8.159374737,LE,Winged,10
-0,3.988984047,CB,Winged,10
-0,3.267665989,CB,Rectangular,10
-0,4.143134726,CB,Rectangular,10
-0,6.086774727,LE,Winged,10
-0,5.241747015,LE,Rectangular,10
-0,6.628041376,CB,Rectangular,10
-0,7.612213251,LE,Rectangular,10
-0,4.762173935,CB,Rectangular,10
-0,6.194405391,LE,Rectangular,10
-0,2.995732274,LE,Rectangular,10
-0,6.510258341,CB,Rectangular,10
-0,4.317488114,CB,Rectangular,10
-0,5.790724405,CB,Rectangular,10
-1,2.910991045,CB,Rectangular,10
-1,5.375278408,LE,Rectangular,10
-1,5.184588601,CB,Winged,10
-1,5.318119994,CB,Rectangular,10
-1,5.010635294,CB,Winged,10
-0,5.075173815,LE,Rectangular,10
-1,4.040855877,LE,Rectangular,10
-1,4.566948973,LE,Winged,10
-1,5.894402834,LE,Rectangular,10
-0,4.317488114,CB,Rectangular,10
-1,5.583496309,CB,Rectangular,10
-1,4.836281907,CB,Winged,10
-1,7.247080585,LE,Winged,10
-1,4.852030264,CB,Winged,10
-1,3.688879454,CB,Winged,10
-1,6.214608098,CB,Rectangular,10
-1,4.49980967,LE,Rectangular,10
-1,5.953243334,CB,Rectangular,10
-1,5.763622475,LE,Rectangular,52
-1,6.173786104,CB,Connected,52
-0,6.950814768,LE,Rectangular,52
-1,7.118826249,CB,Rectangular,52
-0,1.609437912,LE,Rectangular,52
-1,6.674561392,CB,Rectangular,52
-1,7.470224136,LE,Connected,52
-1,5.199187401,CB,Connected,52
-1,7.965545573,CB,Connected,52
-1,7.731930722,CB,Connected,52
-1,6.266251332,LE,Rectangular,52
-1,6.23234978,CB,Connected,52
-1,6.995766156,LE,Rectangular,52
-0,7.824046011,CB,Connected,52
-1,7.567862605,CB,Connected,52
-1,7.92732436,CB,Winged,52
-1,7.726653665,LE,Rectangular,52
-1,6.234410726,CB,Connected,52
-1,7.598399329,CB,Connected,52
-0,4.917466819,LE,Winged,52
-1,7.06871274,LE,Winged,52
-1,6.068425588,CB,Rectangular,52
-1,5.480638923,LE,Rectangular,52
-1,6.929639072,LE,Connected,52
-1,6.915723449,CB,Winged,52
-1,9.047520221,CB,Winged,52
-1,7.719684996,CB,Connected,52
-1,7.23417718,CB,Rectangular,52
-0,4.160834303,LE,Rectangular,52
-1,7.718685495,CB,Connected,52
-1,4.584967479,LE,Winged,52
-1,7.544332108,CB,Connected,52
-1,6.487684018,LE,Rectangular,52
-1,4.317488114,LE,Connected,52
-1,6.527957918,CB,Connected,52
-1,7.114769448,CB,Rectangular,52
-1,7.303170051,LE,Connected,52
-1,2.901421594,LE,Winged,52
-1,8.546363569,CB,Connected,52
-1,6.97634807,CB,Connected,52
-1,7.109879463,CB,Connected,52
-1,5.934894196,CB,Connected,52
-0,5.985655206,CB,Winged,52
-1,8.707482918,CB,Connected,52
-1,6.996223927,LE,Connected,52
-1,7.203405521,CB,Rectangular,52
-0,2.128231706,CB,Rectangular,52
-1,5.470588587,LE,Connected,52
-1,6.751101469,LE,Rectangular,52
-1,8.049292949,CB,Winged,52
-1,6.915723449,CB,Rectangular,52
-1,8.462322981,CB,Winged,52
-1,3.17805383,LE,Rectangular,52
-1,5.478135793,CB,Connected,52
-0,4.292170306,LE,Rectangular,52
-1,6.343133231,LE,Connected,52
-1,7.37117478,CB,Rectangular,52
-1,6.608000625,CB,Winged,52
-1,2.054123734,LE,Winged,52
-1,5.341376856,LE,Connected,52
-0,3.90197267,LE,Connected,52
-1,6.547502514,CB,Rectangular,52
-0,3.912023005,LE,Connected,52
-1,5.241747015,CB,Connected,52
-1,6.797940413,CB,Rectangular,52
-1,6.802394763,LE,Connected,52
-1,6.951772164,LE,Connected,52
-1,5.97126184,CB,Rectangular,52
-1,5.488937726,LE,Winged,52
-0,0.223143551,LE,Rectangular,52
-1,6.728628613,LE,Connected,52
-1,4.025351691,LE,Rectangular,52
-1,6.594755399,CB,Rectangular,52
-1,8.044731504,CB,Winged,52
-1,7.015487979,LE,Connected,52
-1,6.585481762,CB,Rectangular,52
-1,7.633563242,CB,Winged,52
-1,6.29156914,CB,Rectangular,52
-1,6.040254711,LE,Connected,52
-1,4.9698133,LE,Connected,52
-1,10.15781965,CB,Winged,52
-1,4.356708827,LE,Winged,52
-1,2.197224577,LE,Connected,52
-1,8.342839804,CB,Connected,52
-1,4.366278278,LE,Winged,52
-1,7.060905458,CB,Connected,52
-1,7.677863501,LE,Rectangular,52
-1,9.583282288,CB,Winged,52
-1,6.234410726,CB,Rectangular,52
-1,6.822197391,LE,Rectangular,52
-1,2.890371758,CB,Winged,52
-1,4.094344562,LE,Rectangular,52
-1,3.988984047,LE,Connected,52
-1,3.704383641,LE,Rectangular,52
-1,6.061456919,LE,Connected,52
-1,6.204557763,LE,Connected,52
-1,3.988984047,LE,Rectangular,52
-1,7.754138435,CB,Rectangular,52
-1,7.473551926,CB,Rectangular,52
-1,7.103322063,CB,Rectangular,52
-1,5.837730447,LE,Connected,52
-1,6.386879319,CB,Winged,52
-1,7.243407179,CB,Winged,52
-1,5.222903927,LE,Winged,52
-1,5.81711116,LE,Rectangular,52
-1,6.431331082,LE,Connected,52
-1,7.960279998,CB,Connected,52
-0,0.405465108,LE,Rectangular,52
-1,5.66296048,CB,Rectangular,52
-1,4.094344562,LE,Rectangular,52
-1,6.705198361,CB,Connected,52
-1,6.583707933,CB,Winged,52
-1,5.605802066,CB,Rectangular,52
-1,7.333023014,LE,Connected,52
-1,4.682131227,LE,Connected,52
-1,7.859413155,CB,Connected,52
-1,7.026879637,CB,Rectangular,52
-1,3.295836866,LE,Connected,52
-1,5.75827066,LE,Rectangular,52
-1,8.496990484,CB,Connected,52
-1,0,LE,Rectangular,52
-1,7.051855623,CB,Rectangular,52
-0,5.50411128,LE,Connected,52
-1,7.584773078,CB,Connected,52
-1,3.951243719,LE,Winged,53N
-1,6.158037747,LE,Connected,53N
-1,7.731930722,LE,Connected,53N
-1,6.297799689,CB,Rectangular,53N
-0,5.480638923,LE,Winged,53N
-1,3.855452654,CB,Connected,53N
-1,5.192956851,LE,Connected,53N
-1,2.910991045,LE,Winged,53N
-1,6.381181298,CB,Winged,53N
-1,5.647212123,CB,Connected,53N
-0,4.916324615,LE,Winged,53N
-1,3.518980417,CB,Rectangular,53N
-0,3.781344682,CB,Rectangular,53N
-1,6.1828594,CB,Winged,53N
-1,5.521460918,CB,Connected,53N
-1,6.303076746,CB,Winged,53N
-0,6.068425588,LE,Connected,53N
-0,4.430816799,CB,Winged,53N
-1,5.192956851,LE,Rectangular,53N
-1,-0.287682072,LE,Rectangular,53N
-1,6.617402978,LE,Connected,53N
-1,6.068425588,CB,Rectangular,53N
-1,5.43590303,CB,Connected,53N
-1,6.908754779,LE,Winged,53N
-1,6.28320089,LE,Rectangular,53N
-1,8.08147504,CB,Winged,53N
-1,6.309918278,CB,Connected,53N
-1,7.383678851,LE,Connected,53N
-1,5.598421959,CB,Winged,53N
-0,4.471638793,CB,Connected,53N
-1,4.700480366,LE,Connected,53N
-1,4.276666119,CB,Connected,53N
-1,5.659046581,LE,Connected,53N
-1,6.257667588,CB,Winged,53N
-1,4.842216642,CB,Connected,53N
-0,4.189654742,CB,Winged,53N
-0,4.276666119,LE,Winged,53N
-1,5.059425458,LE,Connected,53N
-1,5.780743516,CB,Connected,53N
-0,5.875632732,LE,Connected,53N
-1,2.48490665,LE,Connected,53N
-0,6.98471632,LE,Winged,53N
-1,6.65929392,CB,Connected,53N
-1,5.716204995,LE,Connected,53N
-0,5.059425458,LE,Rectangular,53N
-0,5.049856007,LE,Rectangular,53N
-0,4.356708827,LE,Connected,53N
-1,6.514712691,LE,Connected,53N
-1,5.493061443,CB,Connected,53N
-1,6.722930592,CB,Winged,53N
-0,6.153264468,CB,Winged,53N
-1,5.000584958,LE,Connected,53N
-1,7.36486362,CB,Connected,53N
-1,6.668863371,LE,Winged,53N
-1,3.113515309,LE,Winged,53N
-0,5.65248918,LE,Connected,53N
-1,8.13739583,LE,Winged,53N
-1,6.29156914,CB,Connected,53N
-1,7.024760234,LE,Winged,53N
-1,8.311091106,LE,Rectangular,53N
-1,2.48490665,LE,Winged,53N
-1,6.98471632,CB,Winged,53N
-1,6.541029999,LE,Winged,53N
-1,6.376726948,CB,Winged,53N
-1,5.545177444,CB,Connected,53N
-1,5.529429088,CB,Winged,53N
-1,4.248495242,LE,Connected,53N
-0,3.855452654,LE,Winged,53N
-1,6.086774727,LE,Winged,53N
-1,3.96081317,CB,Winged,53N
-0,4.74927053,LE,Winged,53N
-1,5.241747015,CB,Winged,53N
-1,3.80666249,CB,Winged,53N
-0,4.248495242,CB,Connected,53N
-1,6.8134446,LE,Winged,53N
-0,4.394449155,LE,Winged,53N
-1,3.17805383,LE,Connected,53N
-0,6.741700695,CB,Connected,53N
-1,8.656824691,CB,Winged,53N
-1,6.099197247,CB,Winged,53N
-1,4.317488114,LE,Connected,53N
-1,6.061456919,CB,Connected,53N
-0,5.997695097,CB,Connected,53N
-1,6.356107661,LE,Connected,53N
-1,4.223177434,CB,Winged,53N
-1,6.628041376,LE,Winged,53N
-1,7.426549072,LE,Connected,53S
-1,6.65929392,LE,Rectangular,53S
-0,12.05331183,LE,Connected,53S
-1,6.587550015,LE,Connected,53S
-1,5.036952602,LE,Connected,53S
-1,6.581851994,CB,Connected,53S
-1,7.167037877,CB,Connected,53S
-1,2.890371758,CB,Winged,53S
-0,6.579251212,LE,Winged,53S
-0,6.194405391,LE,Rectangular,53S
-1,5.298317367,LE,Rectangular,53S
-1,4.350277936,LE,Connected,53S
-0,6.828712072,LE,Connected,53S
-0,4.17438727,LE,Winged,53S
-1,7.475339237,LE,Connected,53S
-1,3.80666249,LE,Winged,53S
-1,4.412798293,LE,Connected,53S
-1,6.416732283,LE,Winged,53S
-1,5.247024072,CB,Connected,53S
-1,6.59509722,LE,Winged,53S
-0,7.401231264,LE,Connected,53S
-1,5.81711116,LE,Winged,53S
-0,3.33220451,LE,Rectangular,53S
-1,6.956545443,LE,Connected,53S
-1,6.394426525,CB,Winged,53S
-1,6.057954288,CB,Connected,53S
-1,7.268484493,LE,Rectangular,53S
-1,6.802394763,LE,Rectangular,53S
-1,5.97126184,CB,Connected,53S
-1,6.344319705,LE,Connected,53S
-1,5.375278408,CB,Rectangular,53S
-0,6.327936784,LE,Connected,53S
-1,6.788126792,LE,Winged,53S
-1,6.461468176,LE,Connected,53S
-1,5.752572639,LE,Winged,53S
-1,7.560080465,LE,Connected,53S
-1,2.302585093,LE,Winged,53S
-1,6.109247583,LE,Winged,53S
-0,4.094344562,LE,Connected,53S
-1,5.204006687,LE,Connected,53S
-0,5.141663557,CB,Winged,53S
-1,7.021083964,CB,Rectangular,53S
-1,7.017954071,LE,Winged,53S
-1,6.371611847,LE,Connected,53S
-1,4.718498871,LE,Connected,53S
-1,6.568779912,LE,Connected,53S
-1,7.007600614,CB,Winged,53S
-1,6.728628613,LE,Rectangular,53S
-1,4.836281907,CB,Winged,53S
-1,6.897704943,LE,Rectangular,53S
-1,5.97126184,LE,Winged,53S
-1,6.423246964,LE,Winged,53S
-1,6.194405391,CB,Connected,53S
-0,4.430816799,CB,Winged,53S
-1,6.708084084,LE,Winged,53S
-1,5.342334252,CB,Connected,53S
-1,6.933423026,LE,Winged,53S
-1,6.762151305,LE,Winged,53S
-1,4.722953222,LE,Connected,53S
-1,5.764407096,LE,Rectangular,53S
-0,6.708084084,LE,Rectangular,53S
-1,3.988984047,CB,Connected,53S
-1,6.98471632,CB,Connected,53S
-1,4.366278278,LE,Connected,53S
-1,5.429345629,LE,Connected,53S
-1,4.430816799,CB,Connected,53S
-1,3.784189634,LE,Connected,53S
-0,5.886104031,LE,Winged,53S
-1,3.162305473,LE,Connected,53S
-1,7.551712215,LE,Connected,53S
-1,6.70930434,LE,Winged,53S
-1,3.295836866,CB,Winged,53S
-1,6.739336627,CB,Rectangular,53S
-1,6.340359304,CB,Winged,53S
-1,6.982862751,LE,Rectangular,53S
-1,6.040254711,LE,Connected,53S
-0,4.882801923,LE,Winged,53S
-1,6.353935164,CB,Connected,53S
-0,7.154615357,LE,Winged,53S
-0,5.358941988,LE,Winged,53S
-0,7.753086922,LE,Rectangular,53S
-0,7.326465614,CB,Rectangular,53S
-0,4.474491862,LE,Connected,53S
-0,5.529429088,CB,Connected,53S
-0,3.555348061,CB,Winged,53S
-0,6.135564891,LE,Winged,53S
-0,3.604138226,LE,Winged,53S
-0,5.693732139,LE,Connected,53S
-0,5.529429088,CB,Winged,53S
-0,6.061456919,LE,Winged,53S
-0,7.512890582,CB,Connected,53S
-0,6.799891633,LE,Connected,53S
-0,6.269096284,CB,Connected,53S
-0,1.386294361,LE,Winged,53S
-0,5.598421959,CB,Connected,54N
-0,6.356107661,LE,Winged,54N
-0,7.051855623,LE,Connected,54N
-0,2.48490665,LE,Rectangular,54N
-0,4.317488114,LE,Connected,54N
-0,1.909542505,LE,Rectangular,54N
-0,7.248681866,CB,Rectangular,54N
-0,6.011267174,CB,Rectangular,54N
-0,7.033506484,LE,Connected,54N
-0,6.587550015,CB,Rectangular,54N
-0,5.398162702,CB,Rectangular,54N
-0,5.298317367,LE,Connected,54N
-0,6.777076955,LE,Rectangular,54N
-0,5.11349268,LE,Connected,54N
-0,7.138867,CB,Winged,54N
-0,6.908754779,LE,Connected,54N
-0,5.480638923,LE,Connected,54N
-0,3.465735903,LE,Connected,54N
-1,6.476972363,LE,Connected,54N
-1,4.382026635,LE,Rectangular,54N
-1,6.572282543,CB,Rectangular,54N
-1,6.358708442,CB,Rectangular,54N
-1,6.207331689,CB,Connected,54N
-0,1.658228077,LE,Winged,54N
-1,1.727220948,LE,Winged,54N
-1,5.071259916,CB,Winged,54N
-1,4.412798293,LE,Rectangular,54N
-1,5.940171253,CB,Winged,54N
-1,7.113549192,LE,Connected,54N
-1,6.207331689,CB,Connected,54N
-1,4.069026754,LE,Connected,54N
-1,6.599870499,LE,Rectangular,54N
-1,3.624340933,CB,Connected,54N
-1,6.735186014,LE,Rectangular,54N
-1,5.898526551,LE,Winged,54N
-1,6.12249281,CB,Connected,54N
-1,5.080627666,LE,Connected,54N
-1,0.916290732,CB,Connected,54N
-1,6.386879319,LE,Rectangular,54N
-1,8.076359939,CB,Winged,54N
-1,6.684611728,CB,Connected,54N
-1,4.276666119,LE,Connected,54N
-1,7.197809536,LE,Winged,54N
-0,4.861748513,LE,Rectangular,54N
-1,7.899153483,LE,Rectangular,54N
-1,6.086774727,CB,Connected,54N
-0,3.496507561,LE,Connected,54N
-1,4.787491743,CB,Connected,54N
-1,2.890371758,LE,Rectangular,54N
-1,3.871201011,LE,Connected,54N
-0,4.799914263,LE,Connected,54N
-0,6.445719819,LE,Rectangular,54N
-0,6.29156914,CB,Connected,54N
-0,6.553933404,LE,Connected,54N
-0,6.371611847,LE,Connected,54N
-0,8.874867636,CB,Connected,54N
-0,6.789253235,LE,Connected,54N
-0,4.890349128,LE,Rectangular,54N
-0,6.739336627,CB,Winged,54N
-0,6.684611728,LE,Rectangular,54N
-0,6.989335266,CB,Rectangular,54N
-0,4.65396035,LE,Winged,54N
-0,5.43590303,CB,Rectangular,54N
-0,7.102499356,CB,Rectangular,54N
-0,3.465735903,LE,Rectangular,54N
-0,6.313548046,CB,Rectangular,54N
-0,3.295836866,CB,Connected,54N
-0,5.533883438,LE,Connected,54N
-0,8.259458195,LE,Winged,54N
-0,4.366278278,LE,Rectangular,54N
-0,5.966146739,LE,Connected,54N
-0,7.033506484,CB,Rectangular,54N
-0,6.643789733,LE,Rectangular,54N
-0,6.516193076,CB,Rectangular,54N
-0,5.087596335,LE,Rectangular,54N
-0,4.343805422,CB,Connected,54N
-0,6.148468296,LE,Winged,54N
-1,5.455321115,LE,Connected,54N
-1,7.278628942,CB,Winged,54N
-1,5.049856007,CB,Connected,54N
-1,5.529429088,LE,Connected,54N
-0,4.094344562,CB,Winged,54N
-1,6.186208624,CB,Rectangular,54N
-1,8.23483028,LE,Connected,54N
-1,5.847882819,LE,Rectangular,54N
-1,7.965545573,CB,Connected,54N
-1,7.566957803,CB,Rectangular,54N
-0,2.48490665,LE,Winged,54N
-1,3.295836866,LE,Winged,54N
-1,6.327936784,CB,Rectangular,54N
-1,7.413065722,CB,Connected,54N
-1,6.135564891,CB,Rectangular,54N
-0,4.094344562,CB,Connected,54N
-1,4.49980967,LE,Connected,54N
-1,7.104965448,CB,Winged,54N
-1,6.797940413,LE,Rectangular,54N
-1,5.97126184,LE,Connected,54N
-0,6.697034248,LE,Connected,54N
-1,3.449987546,CB,Connected,54S
-0,6.086774727,CB,Connected,54S
-0,9.349101814,LE,Rectangular,54S
-1,5.192956851,CB,Connected,54S
-1,5.730099783,CB,Connected,54S
-1,4.818263401,LE,Connected,54S
-1,5.075173815,LE,Connected,54S
-1,4.836281907,CB,Rectangular,54S
-1,4.17438727,CB,Connected,54S
-1,6.754604099,LE,Winged,54S
-1,6.340359304,LE,Rectangular,54S
-1,8.180320875,LE,Winged,54S
-1,6.866933284,LE,Connected,54S
-1,2.1690537,LE,Winged,54S
-1,6.258624984,LE,Connected,54S
-1,6.97634807,CB,Connected,54S
-1,7.590852124,CB,Rectangular,54S
-1,3.583518938,LE,Connected,54S
-1,6.579251212,CB,Rectangular,54S
-1,2.351375257,CB,Connected,54S
-0,4.056123349,CB,Rectangular,54S
-0,5.644120931,LE,Winged,54S
-1,6.040254711,CB,Winged,54S
-1,5.570251082,CB,Winged,54S
-1,4.49980967,LE,Connected,54S
-1,6.733401892,CB,Rectangular,54S
-1,5.723585102,CB,Connected,54S
-1,7.104965448,CB,Connected,54S
-1,5.257495372,LE,Rectangular,54S
-1,4.49980967,LE,Rectangular,54S
-1,2.420368129,LE,Connected,54S
-1,5.123963979,LE,Rectangular,54S
-1,6.040254711,LE,Connected,54S
-1,8.124150603,LE,Connected,54S
-1,5.247024072,LE,Connected,54S
-1,2.602689685,LE,Connected,54S
-1,4.143134726,LE,Rectangular,54S
-1,6.204557763,CB,Winged,54S
-1,6.620073207,CB,Winged,54S
-1,6.358708442,CB,Connected,54S
-1,6.445719819,LE,Winged,54S
-0,3.113515309,LE,Rectangular,54S
-1,5.123963979,CB,Rectangular,54S
-1,6.572282543,CB,Rectangular,54S
-1,4.722953222,CB,Rectangular,54S
-1,7.534762657,LE,Connected,54S
-1,7.620705087,LE,Connected,54S
-1,4.566948973,LE,Rectangular,54S
-1,5.66296048,CB,Connected,54S
-1,5.257495372,LE,Rectangular,54S
-1,6.579251212,LE,Rectangular,54S
-1,3.17805383,LE,Rectangular,54S
-1,6.327936784,CB,Rectangular,54S
-1,3.784189634,CB,Rectangular,54S
-1,5.570251082,CB,Rectangular,54S
-1,6.345636361,CB,Rectangular,54S
-1,5.123963979,LE,Connected,54S
-1,5.647212123,CB,Rectangular,54S
-1,1.32175584,CB,Rectangular,54S
-1,3.719651113,CB,Rectangular,54S
-1,7.501772494,LE,Connected,54S
-1,3.583518938,LE,Connected,54S
-1,5.780743516,CB,Winged,54S
-1,6.327936784,LE,Rectangular,54S
-1,7.428333194,CB,Winged,54S
-1,5.533883438,LE,Rectangular,54S
-1,7.774855767,LE,Rectangular,54S
-1,3.17805383,LE,Connected,54S
-0,5.575949103,LE,Rectangular,54S
-1,6.238080455,LE,Rectangular,54S
-1,7.327123292,LE,Rectangular,54S
-1,4.106767082,LE,Connected,54S
-1,5.097577224,LE,Connected,54S
-0,6.298949247,LE,Rectangular,54S
-0,1.791759469,LE,Winged,54S
-0,2.602689685,LE,Winged,54S
-0,7.321188557,LE,Winged,54S
-1,8.037220031,LE,Winged,54S
-1,5.906723319,LE,Rectangular,54S
-1,5.97126184,LE,Winged,54S
-1,3.701301974,LE,Winged,54S
-1,6.828712072,CB,Connected,54S
-1,5.472270674,CB,Rectangular,57
-0,2.014903021,LE,Connected,57
-1,7.908387159,CB,Connected,57
-1,4.250279364,LE,Connected,57
-1,6.792624972,CB,Connected,57
-1,7.43838353,LE,Rectangular,57
-1,3.314186005,CB,Connected,57
-1,6.786152457,LE,Connected,57
-1,5.154735638,LE,Connected,57
-1,7.785305183,CB,Connected,57
-0,6.628041376,LE,Connected,57
-0,6.697034248,LE,Rectangular,57
-1,7.051855623,CB,Connected,57
-1,7.582483874,LE,Rectangular,57
-1,3.624340933,LE,Connected,57
-1,6.620073207,CB,Connected,57
-1,5.416100402,CB,Rectangular,57
-0,4.802995929,LE,Connected,57
-1,6.879355804,LE,Connected,57
-1,6.579251212,LE,Rectangular,57
-1,5.164785974,LE,Connected,57
-1,6.302618976,CB,Rectangular,57
-1,7.774855767,CB,Connected,57
-1,7.102499356,CB,Rectangular,57
-1,5.598421959,LE,Rectangular,57
-0,4.787491743,LE,Rectangular,57
-1,7.005335607,LE,Connected,57
-1,7.079605536,LE,Winged,57
-0,5.407732153,CB,Rectangular,57
-1,6.349138991,LE,Connected,57
-1,3.96081317,CB,Connected,57
-0,6.425679069,LE,Rectangular,57
-1,4.644390899,LE,Connected,57
-1,7.738488122,CB,Rectangular,57
-1,7.470224136,CB,Rectangular,57
-1,5.295814236,LE,Rectangular,57
-1,5.823045895,CB,Connected,57
-1,6.632001777,CB,Rectangular,57
-1,7.994294986,LE,Rectangular,57
-1,6.822197391,CB,Winged,57
-1,7.875689244,CB,Winged,57
-1,8.48467,CB,Winged,57
-1,7.179688994,CB,Winged,57
-1,8.045107396,LE,Rectangular,57
-1,5.521460918,CB,Rectangular,57
-1,5.906723319,CB,Connected,57
-0,5.204006687,CB,Rectangular,57
-1,5.730099783,LE,Connected,57
-1,4.9698133,LE,Winged,57
-1,4.471638793,CB,Rectangular,57
-1,5.364807108,CB,Winged,57
-1,5.703782475,LE,Connected,57
-1,5.33753808,CB,Rectangular,57
-1,7.387090236,LE,Connected,57
-1,6.388897484,CB,Connected,57
-1,5.480638923,CB,Winged,57
-1,2.862200881,LE,Connected,57
-1,7.699842407,LE,Winged,57
-0,6.29156914,LE,Winged,57
-1,6.920177799,LE,Winged,57
-1,6.473890696,CB,Connected,57
-1,7.413065722,CB,Rectangular,57
-1,5.204006687,CB,Connected,57
-1,4.526126979,LE,Connected,57
-1,7.958576904,CB,Winged,57
-1,7.246011637,CB,Winged,57
-1,4.718498871,CB,Connected,57
-1,6.386879319,CB,Rectangular,57
-1,4.9698133,LE,Winged,57
-1,5.398162702,LE,Rectangular,57
-1,6.492239835,LE,Connected,57
-1,5.886104031,CB,Rectangular,57
-1,7.920809679,LE,Rectangular,57
-1,5.689514503,LE,Rectangular,57
-0,4.905274778,LE,Connected,57
-1,6.761572769,CB,Rectangular,57
-1,5.743003188,CB,Rectangular,57
-0,6.061456919,LE,Winged,57
-1,5.455321115,CB,Connected,57
-1,7.367708572,CB,Rectangular,57
-1,7.470224136,LE,Connected,57
-0,6.956545443,LE,Rectangular,57
-1,7.390181428,CB,Rectangular,57
-1,3.871201011,CB,Rectangular,57
-1,6.011267174,LE,Rectangular,57
-1,6.483871585,LE,Rectangular,57
-1,7.086946943,CB,Connected,57
-1,6.715383386,CB,Rectangular,57
-1,5.991464547,CB,Connected,57
-1,5.598421959,LE,Rectangular,57
-1,6.827087376,CB,Winged,57
-1,7.051855623,LE,Winged,57
-1,7.640123173,CB,Rectangular,57
-1,6.741700695,LE,Rectangular,57
-0,5.946728653,LE,Winged,57
-0,7.539558829,CB,Rectangular,57
-1,0.117783036,LE,Rectangular,57
-0,8.472457298,CB,Rectangular,57
-0,6.12905021,CB,Connected,57
-0,5.501258211,CB,Winged,57
-0,6.104793232,LE,Rectangular,57
-0,7.849713758,LE,Winged,57
-0,7.102499356,LE,Connected,57
-0,7.279318835,LE,Connected,57
-0,5.66296048,CB,Rectangular,57
-0,7.022199413,LE,Connected,57
-0,3.886705197,LE,Rectangular,57
-0,7.344072851,CB,Rectangular,57
-0,5.703782475,CB,Connected,57
-0,5.940171253,CB,Rectangular,57
-0,6.425679069,LE,Winged,57
-0,5.541263545,CB,Connected,57
-0,8.011686729,LE,Connected,8
-0,6.253347927,CB,Connected,8
-0,9.032857092,LE,Rectangular,8
-0,5.66296048,CB,Rectangular,8
-0,5.233778845,LE,Rectangular,8
-0,7.314219887,LE,Rectangular,8
-0,5.639243954,CB,Connected,8
-0,6.206827911,CB,Rectangular,8
-0,6.841615476,LE,Winged,8
-0,5.464890566,CB,Winged,8
-0,5.059425458,LE,Winged,8
-0,7.246011637,LE,Connected,8
-0,6.148468296,LE,Connected,8
-0,7.633127607,LE,Winged,8
-0,3.583518938,LE,Rectangular,8
-0,7.625595072,CB,Connected,8
-0,4.297285406,LE,Connected,8
-0,6.754604099,LE,Rectangular,8
-0,5.448352446,LE,Connected,8
-0,6.158037747,LE,Connected,8
-0,5.66296048,CB,Connected,8
-0,8.898877771,LE,Connected,8
-0,5.204006687,CB,Rectangular,8
-0,6.97634807,CB,Winged,8
-0,4.102643365,CB,Winged,8
-0,6.476972363,CB,Connected,8
-0,5.347107531,LE,Winged,8
-0,6.263160139,CB,Winged,8
-0,6.269096284,LE,Rectangular,8
-0,3.401197382,LE,Connected,8
-0,5.395897695,LE,Connected,8
-0,5.768320996,CB,Winged,8
-0,6.840546529,CB,Connected,8
-0,4.548599834,LE,Rectangular,8
-0,5.636573725,LE,Rectangular,8
-0,5.418874329,CB,Connected,8
-0,5.834810737,CB,Winged,8
-0,6.514712691,LE,Connected,8
-0,6.340359304,CB,Connected,8
-0,5.030437921,CB,Connected,8
-0,2.48490665,CB,Winged,8
-0,6.040254711,LE,Connected,8
-0,7.426549072,CB,Winged,8
-0,6.547502514,LE,Connected,8
-0,5.934894196,LE,Rectangular,8
-0,5.321789723,LE,Connected,8
-0,7.213179033,CB,Winged,8
-0,5.213576138,CB,Winged,8
-0,5.030437921,LE,Rectangular,8
-0,6.915723449,CB,Winged,8
-0,4.675162558,CB,Winged,8
-0,8.787525626,CB,Rectangular,8
-0,7.434847875,LE,Winged,8
-0,5.182485551,CB,Winged,8
-0,5.723585102,CB,Rectangular,8
-0,7.726653665,LE,Winged,8
-0,6.28320089,LE,Connected,8
-0,5.000584958,CB,Connected,8
-0,6.553933404,LE,Connected,8
-0,5.703782475,CB,Connected,8
-0,3.871201011,CB,Connected,8
-0,5.847882819,LE,Connected,8
-0,6.643789733,LE,Winged,8
-0,7.416077773,LE,Winged,8
-0,6.980308472,LE,Winged,8
-0,5.619041246,CB,Winged,8
-0,5.375278408,CB,Connected,8
-0,6.376726948,LE,Winged,8
-0,7.219367478,LE,Rectangular,8
-0,7.29301768,LE,Winged,8
-0,3.80666249,CB,Winged,8
-0,6.269096284,CB,Connected,8
-0,5.66296048,CB,Connected,8
-0,6.091309882,LE,Rectangular,8
-0,6.234410726,LE,Rectangular,8
-0,3.988984047,CB,Winged,8
-0,8.032684876,LE,Connected,8
-0,4.189654742,CB,Rectangular,8
-0,5.65248918,CB,Connected,8
-0,6.851184927,LE,Connected,8
-0,4.787491743,CB,Connected,8
-0,7.049254841,LE,Winged,8
-0,3.218875825,CB,Connected,8
-0,7.167037877,LE,Winged,8
-0,7.207859871,CB,Connected,8
-0,8.779557456,LE,Winged,8
-0,5.12841833,CB,Winged,8
-0,5.743003188,LE,Winged,8
-0,4.742755849,CB,Rectangular,8
-0,4.836281907,CB,Connected,8
-0,6.608000625,LE,Winged,8
-0,4.189654742,CB,Rectangular,8
-0,5.780743516,CB,Connected,8
-0,4.029806041,CB,Winged,8
-0,5.634789603,LE,Winged,8
-0,5.123963979,CB,Winged,8
-0,5.049856007,CB,Connected,8
-0,5.988961417,LE,Winged,8
-0,5.429345629,CB,Winged,8
-0,5.940171253,CB,Winged,8
-0,5.906723319,LE,Winged,8
-0,4.056123349,CB,Winged,8
-0,4.605170186,CB,Connected,8
-0,6.197716231,LE,Connected,8
-0,7.742402022,CB,Connected,8
-0,4.890349128,LE,Winged,8
-0,4.094344562,CB,Connected,8
-0,6.674561392,LE,Winged,8
-0,5.598421959,CB,Connected,8
-0,4.508108473,LE,Winged,8
-0,4.818263401,CB,Winged,8
-0,6.186208624,LE,Connected,8
-0,6.536691598,LE,Winged,8
-0,5.204006687,CB,Connected,8
-0,6.135564891,CB,Rectangular,8
-0,7.048277802,CB,Rectangular,8
-0,7.045014091,LE,Winged,8
-0,4.250279364,CB,Winged,8
-0,4.430816799,CB,Winged,8
-0,5.278114659,CB,Winged,8
-0,5.000584958,CB,Rectangular,8
-0,5.655991811,CB,Winged,8
-0,4.094344562,LE,Connected,8
-0,6.003887067,CB,Rectangular,8
+1,5.375278408,Rhizophora mucronata,Connected,10
+1,5.472270674,Rhizophora mucronata,Connected,10
+1,6.879355804,Rhizophora mucronata,Connected,10
+1,5.310739887,Rhizophora mucronata,Connected,10
+1,4.985317486,Rhizophora mucronata,Connected,10
+1,4.916324615,Rhizophora mucronata,Connected,10
+1,5.49614311,Rhizophora mucronata,Connected,10
+0,4.007333185,Rhizophora mucronata,Connected,10
+0,4.412798293,Rhizophora mucronata,Connected,10
+0,3.912023005,Rhizophora mucronata,Connected,10
+0,6.674561392,Rhizophora mucronata,Connected,10
+0,6.80516869,Rhizophora mucronata,Connected,10
+0,4.094344562,Rhizophora mucronata,Connected,10
+0,4.094344562,Rhizophora mucronata,Connected,10
+0,7.140651122,Rhizophora mucronata,Connected,10
+0,6.782192056,Rhizophora mucronata,Connected,10
+0,5.752572639,Rhizophora mucronata,Connected,10
+0,4.435271149,Rhizophora mucronata,Connected,10
+0,2.910991045,Rhizophora mucronata,Connected,10
+0,6.183117431,Avicennia marina,Connected,10
+0,4.189654742,Avicennia marina,Connected,10
+0,5.059425458,Avicennia marina,Connected,10
+0,6.697034248,Avicennia marina,Connected,10
+0,4.635941845,Avicennia marina,Connected,10
+0,5.192956851,Avicennia marina,Connected,10
+0,6.182084907,Avicennia marina,Connected,10
+0,4.682131227,Rhizophora mucronata,Rectangular,10
+0,5.338739281,Sonneratia alba,Rectangular,10
+0,3.465735903,Rhizophora mucronata,Rectangular,10
+0,5.857933154,Avicennia marina,Connected,10
+0,5.480638923,Rhizophora mucronata,Rectangular,10
+0,5.66296048,Rhizophora mucronata,Winged,10
+0,5.298317367,Rhizophora mucronata,Winged,10
+0,4.818263401,Rhizophora mucronata,Rectangular,10
+0,6.003887067,Rhizophora mucronata,Rectangular,10
+0,3.688879454,Avicennia marina,Connected,10
+0,5.049856007,Avicennia marina,Connected,10
+0,2.351375257,Avicennia marina,Connected,10
+0,4.366278278,Avicennia marina,Connected,10
+0,6.715383386,Avicennia marina,Connected,10
+0,4.941642423,Avicennia marina,Connected,10
+0,6.109247583,Avicennia marina,Connected,10
+0,4.49980967,Avicennia marina,Connected,10
+0,5.241747015,Avicennia marina,Connected,10
+0,5.752572639,Sonneratia alba,Connected,10
+0,3.912023005,Sonneratia alba,Connected,10
+0,6.492239835,Sonneratia alba,Connected,10
+0,4.628642542,Sonneratia alba,Connected,10
+0,6.672823772,Sonneratia alba,Connected,10
+0,4.49980967,Sonneratia alba,Connected,10
+0,7.218909708,Sonneratia alba,Connected,10
+0,4.818263401,Sonneratia alba,Connected,10
+0,8.003697339,Sonneratia alba,Connected,10
+0,5.991464547,Sonneratia alba,Connected,10
+0,4.49980967,Sonneratia alba,Connected,10
+0,3.17805383,Rhizophora mucronata,Rectangular,10
+0,6.499787041,Sonneratia alba,Rectangular,10
+0,7.426549072,Sonneratia alba,Rectangular,10
+0,6.499787041,Sonneratia alba,Rectangular,10
+0,2.825833237,Sonneratia alba,Rectangular,10
+0,6.761572769,Rhizophora mucronata,Winged,10
+0,6.719013154,Sonneratia alba,Rectangular,10
+0,6.908754779,Avicennia marina,Rectangular,10
+0,6.43735157,Avicennia marina,Rectangular,10
+0,5.598421959,Avicennia marina,Rectangular,10
+0,5.966146739,Avicennia marina,Rectangular,10
+0,2.351375257,Avicennia marina,Rectangular,10
+0,5.991464547,Rhizophora mucronata,Winged,10
+0,4.762173935,Rhizophora mucronata,Winged,10
+0,5.834810737,Avicennia marina,Winged,10
+0,3.80666249,Rhizophora mucronata,Winged,10
+0,2.079441542,Avicennia marina,Rectangular,10
+0,4.959342,Avicennia marina,Rectangular,10
+0,4.836281907,Avicennia marina,Rectangular,10
+0,3.208825489,Avicennia marina,Rectangular,10
+0,5.049856007,Avicennia marina,Rectangular,10
+0,8.23270601,Avicennia marina,Winged,10
+0,6.358708442,Avicennia marina,Rectangular,10
+0,7.569411792,Avicennia marina,Winged,10
+0,4.49980967,Avicennia marina,Rectangular,10
+0,5.609471795,Avicennia marina,Winged,10
+0,5.952593773,Avicennia marina,Rectangular,10
+0,2.420368129,Avicennia marina,Winged,10
+0,6.585481762,Avicennia marina,Rectangular,10
+0,5.480638923,Avicennia marina,Rectangular,10
+0,6.329720906,Avicennia marina,Winged,10
+0,2.772588722,Avicennia marina,Winged,10
+0,3.113515309,Sonneratia alba,Rectangular,10
+0,6.451654555,Sonneratia alba,Rectangular,10
+0,2.890371758,Avicennia marina,Winged,10
+0,7.081708586,Sonneratia alba,Rectangular,10
+0,5.480638923,Rhizophora mucronata,Rectangular,10
+0,7.418180823,Avicennia marina,Winged,10
+0,4.882801923,Rhizophora mucronata,Rectangular,10
+0,5.541263545,Sonneratia alba,Rectangular,10
+0,5.395897695,Rhizophora mucronata,Rectangular,10
+0,6.761572769,Sonneratia alba,Rectangular,10
+0,8.159374737,Avicennia marina,Winged,10
+0,3.988984047,Avicennia marina,Winged,10
+0,3.267665989,Rhizophora mucronata,Rectangular,10
+0,4.143134726,Rhizophora mucronata,Rectangular,10
+0,6.086774727,Avicennia marina,Winged,10
+0,5.241747015,Sonneratia alba,Rectangular,10
+0,6.628041376,Rhizophora mucronata,Rectangular,10
+0,7.612213251,Sonneratia alba,Rectangular,10
+0,4.762173935,Rhizophora mucronata,Rectangular,10
+0,6.194405391,Sonneratia alba,Rectangular,10
+0,2.995732274,Sonneratia alba,Rectangular,10
+0,6.510258341,Rhizophora mucronata,Rectangular,10
+0,4.317488114,Rhizophora mucronata,Rectangular,10
+0,5.790724405,Rhizophora mucronata,Rectangular,10
+1,2.910991045,Rhizophora mucronata,Rectangular,10
+1,5.375278408,Sonneratia alba,Rectangular,10
+1,5.184588601,Avicennia marina,Winged,10
+1,5.318119994,Rhizophora mucronata,Rectangular,10
+1,5.010635294,Avicennia marina,Winged,10
+0,5.075173815,Sonneratia alba,Rectangular,10
+1,4.040855877,Sonneratia alba,Rectangular,10
+1,4.566948973,Sonneratia alba,Winged,10
+1,5.894402834,Sonneratia alba,Rectangular,10
+0,4.317488114,Rhizophora mucronata,Rectangular,10
+1,5.583496309,Rhizophora mucronata,Rectangular,10
+1,4.836281907,Rhizophora mucronata,Winged,10
+1,7.247080585,Sonneratia alba,Winged,10
+1,4.852030264,Rhizophora mucronata,Winged,10
+1,3.688879454,Rhizophora mucronata,Winged,10
+1,6.214608098,Rhizophora mucronata,Rectangular,10
+1,4.49980967,Sonneratia alba,Rectangular,10
+1,5.953243334,Rhizophora mucronata,Rectangular,10
+1,5.763622475,Sonneratia alba,Rectangular,52
+1,6.173786104,Rhizophora mucronata,Connected,52
+0,6.950814768,Sonneratia alba,Rectangular,52
+1,7.118826249,Rhizophora mucronata,Rectangular,52
+0,1.609437912,Sonneratia alba,Rectangular,52
+1,6.674561392,Rhizophora mucronata,Rectangular,52
+1,7.470224136,Sonneratia alba,Connected,52
+1,5.199187401,Rhizophora mucronata,Connected,52
+1,7.965545573,Rhizophora mucronata,Connected,52
+1,7.731930722,Rhizophora mucronata,Connected,52
+1,6.266251332,Sonneratia alba,Rectangular,52
+1,6.23234978,Rhizophora mucronata,Connected,52
+1,6.995766156,Sonneratia alba,Rectangular,52
+0,7.824046011,Rhizophora mucronata,Connected,52
+1,7.567862605,Rhizophora mucronata,Connected,52
+1,7.92732436,Rhizophora mucronata,Winged,52
+1,7.726653665,Sonneratia alba,Rectangular,52
+1,6.234410726,Rhizophora mucronata,Connected,52
+1,7.598399329,Rhizophora mucronata,Connected,52
+0,4.917466819,Sonneratia alba,Winged,52
+1,7.06871274,Sonneratia alba,Winged,52
+1,6.068425588,Rhizophora mucronata,Rectangular,52
+1,5.480638923,Sonneratia alba,Rectangular,52
+1,6.929639072,Sonneratia alba,Connected,52
+1,6.915723449,Rhizophora mucronata,Winged,52
+1,9.047520221,Rhizophora mucronata,Winged,52
+1,7.719684996,Rhizophora mucronata,Connected,52
+1,7.23417718,Rhizophora mucronata,Rectangular,52
+0,4.160834303,Sonneratia alba,Rectangular,52
+1,7.718685495,Rhizophora mucronata,Connected,52
+1,4.584967479,Sonneratia alba,Winged,52
+1,7.544332108,Rhizophora mucronata,Connected,52
+1,6.487684018,Sonneratia alba,Rectangular,52
+1,4.317488114,Sonneratia alba,Connected,52
+1,6.527957918,Rhizophora mucronata,Connected,52
+1,7.114769448,Rhizophora mucronata,Rectangular,52
+1,7.303170051,Sonneratia alba,Connected,52
+1,2.901421594,Sonneratia alba,Winged,52
+1,8.546363569,Rhizophora mucronata,Connected,52
+1,6.97634807,Rhizophora mucronata,Connected,52
+1,7.109879463,Rhizophora mucronata,Connected,52
+1,5.934894196,Rhizophora mucronata,Connected,52
+0,5.985655206,Rhizophora mucronata,Winged,52
+1,8.707482918,Rhizophora mucronata,Connected,52
+1,6.996223927,Sonneratia alba,Connected,52
+1,7.203405521,Rhizophora mucronata,Rectangular,52
+0,2.128231706,Rhizophora mucronata,Rectangular,52
+1,5.470588587,Sonneratia alba,Connected,52
+1,6.751101469,Sonneratia alba,Rectangular,52
+1,8.049292949,Rhizophora mucronata,Winged,52
+1,6.915723449,Rhizophora mucronata,Rectangular,52
+1,8.462322981,Rhizophora mucronata,Winged,52
+1,3.17805383,Sonneratia alba,Rectangular,52
+1,5.478135793,Rhizophora mucronata,Connected,52
+0,4.292170306,Sonneratia alba,Rectangular,52
+1,6.343133231,Sonneratia alba,Connected,52
+1,7.37117478,Rhizophora mucronata,Rectangular,52
+1,6.608000625,Rhizophora mucronata,Winged,52
+1,2.054123734,Sonneratia alba,Winged,52
+1,5.341376856,Avicennia marina,Connected,52
+0,3.90197267,Avicennia marina,Connected,52
+1,6.547502514,Rhizophora mucronata,Rectangular,52
+0,3.912023005,Avicennia marina,Connected,52
+1,5.241747015,Avicennia marina,Connected,52
+1,6.797940413,Rhizophora mucronata,Rectangular,52
+1,6.802394763,Avicennia marina,Connected,52
+1,6.951772164,Avicennia marina,Connected,52
+1,5.97126184,Rhizophora mucronata,Rectangular,52
+1,5.488937726,Sonneratia alba,Winged,52
+0,0.223143551,Sonneratia alba,Rectangular,52
+1,6.728628613,Avicennia marina,Connected,52
+1,4.025351691,Sonneratia alba,Rectangular,52
+1,6.594755399,Rhizophora mucronata,Rectangular,52
+1,8.044731504,Rhizophora mucronata,Winged,52
+1,7.015487979,Avicennia marina,Connected,52
+1,6.585481762,Rhizophora mucronata,Rectangular,52
+1,7.633563242,Rhizophora mucronata,Winged,52
+1,6.29156914,Avicennia marina,Rectangular,52
+1,6.040254711,Avicennia marina,Connected,52
+1,4.9698133,Avicennia marina,Connected,52
+1,10.15781965,Rhizophora mucronata,Winged,52
+1,4.356708827,Sonneratia alba,Winged,52
+1,2.197224577,Avicennia marina,Connected,52
+1,8.342839804,Avicennia marina,Connected,52
+1,4.366278278,Sonneratia alba,Winged,52
+1,7.060905458,Avicennia marina,Connected,52
+1,7.677863501,Avicennia marina,Rectangular,52
+1,9.583282288,Rhizophora mucronata,Winged,52
+1,6.234410726,Avicennia marina,Rectangular,52
+1,6.822197391,Avicennia marina,Rectangular,52
+1,2.890371758,Rhizophora mucronata,Winged,52
+1,4.094344562,Avicennia marina,Rectangular,52
+1,3.988984047,Avicennia marina,Connected,52
+1,3.704383641,Avicennia marina,Rectangular,52
+1,6.061456919,Avicennia marina,Connected,52
+1,6.204557763,Avicennia marina,Connected,52
+1,3.988984047,Avicennia marina,Rectangular,52
+1,7.754138435,Avicennia marina,Rectangular,52
+1,7.473551926,Avicennia marina,Rectangular,52
+1,7.103322063,Avicennia marina,Rectangular,52
+1,5.837730447,Avicennia marina,Connected,52
+1,6.386879319,Rhizophora mucronata,Winged,52
+1,7.243407179,Rhizophora mucronata,Winged,52
+1,5.222903927,Sonneratia alba,Winged,52
+1,5.81711116,Sonneratia alba,Rectangular,52
+1,6.431331082,Sonneratia alba,Connected,52
+1,7.960279998,Rhizophora mucronata,Connected,52
+0,0.405465108,Sonneratia alba,Rectangular,52
+1,5.66296048,Rhizophora mucronata,Rectangular,52
+1,4.094344562,Sonneratia alba,Rectangular,52
+1,6.705198361,Rhizophora mucronata,Connected,52
+1,6.583707933,Rhizophora mucronata,Winged,52
+1,5.605802066,Rhizophora mucronata,Rectangular,52
+1,7.333023014,Sonneratia alba,Connected,52
+1,4.682131227,Sonneratia alba,Connected,52
+1,7.859413155,Rhizophora mucronata,Connected,52
+1,7.026879637,Rhizophora mucronata,Rectangular,52
+1,3.295836866,Sonneratia alba,Connected,52
+1,5.75827066,Sonneratia alba,Rectangular,52
+1,8.496990484,Rhizophora mucronata,Connected,52
+1,0,Sonneratia alba,Rectangular,52
+1,7.051855623,Rhizophora mucronata,Rectangular,52
+0,5.50411128,Sonneratia alba,Connected,52
+1,7.584773078,Rhizophora mucronata,Connected,52
+1,3.951243719,Sonneratia alba,Winged,53N
+1,6.158037747,Sonneratia alba,Connected,53N
+1,7.731930722,Sonneratia alba,Connected,53N
+1,6.297799689,Rhizophora mucronata,Rectangular,53N
+0,5.480638923,Sonneratia alba,Winged,53N
+1,3.855452654,Rhizophora mucronata,Connected,53N
+1,5.192956851,Sonneratia alba,Connected,53N
+1,2.910991045,Sonneratia alba,Winged,53N
+1,6.381181298,Rhizophora mucronata,Winged,53N
+1,5.647212123,Rhizophora mucronata,Connected,53N
+0,4.916324615,Sonneratia alba,Winged,53N
+1,3.518980417,Rhizophora mucronata,Rectangular,53N
+0,3.781344682,Rhizophora mucronata,Rectangular,53N
+1,6.1828594,Rhizophora mucronata,Winged,53N
+1,5.521460918,Rhizophora mucronata,Connected,53N
+1,6.303076746,Rhizophora mucronata,Winged,53N
+0,6.068425588,Sonneratia alba,Connected,53N
+0,4.430816799,Rhizophora mucronata,Winged,53N
+1,5.192956851,Sonneratia alba,Rectangular,53N
+1,-0.287682072,Sonneratia alba,Rectangular,53N
+1,6.617402978,Sonneratia alba,Connected,53N
+1,6.068425588,Rhizophora mucronata,Rectangular,53N
+1,5.43590303,Rhizophora mucronata,Connected,53N
+1,6.908754779,Avicennia marina,Winged,53N
+1,6.28320089,Sonneratia alba,Rectangular,53N
+1,8.08147504,Avicennia marina,Winged,53N
+1,6.309918278,Rhizophora mucronata,Connected,53N
+1,7.383678851,Sonneratia alba,Connected,53N
+1,5.598421959,Avicennia marina,Winged,53N
+0,4.471638793,Rhizophora mucronata,Connected,53N
+1,4.700480366,Sonneratia alba,Connected,53N
+1,4.276666119,Rhizophora mucronata,Connected,53N
+1,5.659046581,Sonneratia alba,Connected,53N
+1,6.257667588,Avicennia marina,Winged,53N
+1,4.842216642,Rhizophora mucronata,Connected,53N
+0,4.189654742,Avicennia marina,Winged,53N
+0,4.276666119,Avicennia marina,Winged,53N
+1,5.059425458,Sonneratia alba,Connected,53N
+1,5.780743516,Rhizophora mucronata,Connected,53N
+0,5.875632732,Sonneratia alba,Connected,53N
+1,2.48490665,Sonneratia alba,Connected,53N
+0,6.98471632,Avicennia marina,Winged,53N
+1,6.65929392,Rhizophora mucronata,Connected,53N
+1,5.716204995,Sonneratia alba,Connected,53N
+0,5.059425458,Sonneratia alba,Rectangular,53N
+0,5.049856007,Sonneratia alba,Rectangular,53N
+0,4.356708827,Sonneratia alba,Connected,53N
+1,6.514712691,Sonneratia alba,Connected,53N
+1,5.493061443,Rhizophora mucronata,Connected,53N
+1,6.722930592,Avicennia marina,Winged,53N
+0,6.153264468,Avicennia marina,Winged,53N
+1,5.000584958,Sonneratia alba,Connected,53N
+1,7.36486362,Rhizophora mucronata,Connected,53N
+1,6.668863371,Avicennia marina,Winged,53N
+1,3.113515309,Avicennia marina,Winged,53N
+0,5.65248918,Sonneratia alba,Connected,53N
+1,8.13739583,Avicennia marina,Winged,53N
+1,6.29156914,Rhizophora mucronata,Connected,53N
+1,7.024760234,Avicennia marina,Winged,53N
+1,8.311091106,Sonneratia alba,Rectangular,53N
+1,2.48490665,Avicennia marina,Winged,53N
+1,6.98471632,Avicennia marina,Winged,53N
+1,6.541029999,Sonneratia alba,Winged,53N
+1,6.376726948,Rhizophora mucronata,Winged,53N
+1,5.545177444,Rhizophora mucronata,Connected,53N
+1,5.529429088,Rhizophora mucronata,Winged,53N
+1,4.248495242,Sonneratia alba,Connected,53N
+0,3.855452654,Sonneratia alba,Winged,53N
+1,6.086774727,Sonneratia alba,Winged,53N
+1,3.96081317,Rhizophora mucronata,Winged,53N
+0,4.74927053,Sonneratia alba,Winged,53N
+1,5.241747015,Rhizophora mucronata,Winged,53N
+1,3.80666249,Rhizophora mucronata,Winged,53N
+0,4.248495242,Rhizophora mucronata,Connected,53N
+1,6.8134446,Sonneratia alba,Winged,53N
+0,4.394449155,Sonneratia alba,Winged,53N
+1,3.17805383,Sonneratia alba,Connected,53N
+0,6.741700695,Rhizophora mucronata,Connected,53N
+1,8.656824691,Rhizophora mucronata,Winged,53N
+1,6.099197247,Rhizophora mucronata,Winged,53N
+1,4.317488114,Sonneratia alba,Connected,53N
+1,6.061456919,Rhizophora mucronata,Connected,53N
+0,5.997695097,Rhizophora mucronata,Connected,53N
+1,6.356107661,Sonneratia alba,Connected,53N
+1,4.223177434,Rhizophora mucronata,Winged,53N
+1,6.628041376,Sonneratia alba,Winged,53N
+1,7.426549072,Sonneratia alba,Connected,53S
+1,6.65929392,Sonneratia alba,Rectangular,53S
+0,12.05331183,Sonneratia alba,Connected,53S
+1,6.587550015,Sonneratia alba,Connected,53S
+1,5.036952602,Sonneratia alba,Connected,53S
+1,6.581851994,Rhizophora mucronata,Connected,53S
+1,7.167037877,Rhizophora mucronata,Connected,53S
+1,2.890371758,Rhizophora mucronata,Winged,53S
+0,6.579251212,Sonneratia alba,Winged,53S
+0,6.194405391,Sonneratia alba,Rectangular,53S
+1,5.298317367,Sonneratia alba,Rectangular,53S
+1,4.350277936,Sonneratia alba,Connected,53S
+0,6.828712072,Sonneratia alba,Connected,53S
+0,4.17438727,Sonneratia alba,Winged,53S
+1,7.475339237,Sonneratia alba,Connected,53S
+1,3.80666249,Sonneratia alba,Winged,53S
+1,4.412798293,Sonneratia alba,Connected,53S
+1,6.416732283,Sonneratia alba,Winged,53S
+1,5.247024072,Rhizophora mucronata,Connected,53S
+1,6.59509722,Sonneratia alba,Winged,53S
+0,7.401231264,Sonneratia alba,Connected,53S
+1,5.81711116,Sonneratia alba,Winged,53S
+0,3.33220451,Sonneratia alba,Rectangular,53S
+1,6.956545443,Sonneratia alba,Connected,53S
+1,6.394426525,Rhizophora mucronata,Winged,53S
+1,6.057954288,Rhizophora mucronata,Connected,53S
+1,7.268484493,Sonneratia alba,Rectangular,53S
+1,6.802394763,Sonneratia alba,Rectangular,53S
+1,5.97126184,Rhizophora mucronata,Connected,53S
+1,6.344319705,Sonneratia alba,Connected,53S
+1,5.375278408,Rhizophora mucronata,Rectangular,53S
+0,6.327936784,Sonneratia alba,Connected,53S
+1,6.788126792,Sonneratia alba,Winged,53S
+1,6.461468176,Sonneratia alba,Connected,53S
+1,5.752572639,Sonneratia alba,Winged,53S
+1,7.560080465,Sonneratia alba,Connected,53S
+1,2.302585093,Sonneratia alba,Winged,53S
+1,6.109247583,Sonneratia alba,Winged,53S
+0,4.094344562,Sonneratia alba,Connected,53S
+1,5.204006687,Sonneratia alba,Connected,53S
+0,5.141663557,Rhizophora mucronata,Winged,53S
+1,7.021083964,Rhizophora mucronata,Rectangular,53S
+1,7.017954071,Sonneratia alba,Winged,53S
+1,6.371611847,Sonneratia alba,Connected,53S
+1,4.718498871,Sonneratia alba,Connected,53S
+1,6.568779912,Sonneratia alba,Connected,53S
+1,7.007600614,Rhizophora mucronata,Winged,53S
+1,6.728628613,Sonneratia alba,Rectangular,53S
+1,4.836281907,Rhizophora mucronata,Winged,53S
+1,6.897704943,Sonneratia alba,Rectangular,53S
+1,5.97126184,Sonneratia alba,Winged,53S
+1,6.423246964,Sonneratia alba,Winged,53S
+1,6.194405391,Rhizophora mucronata,Connected,53S
+0,4.430816799,Rhizophora mucronata,Winged,53S
+1,6.708084084,Avicennia marina,Winged,53S
+1,5.342334252,Rhizophora mucronata,Connected,53S
+1,6.933423026,Avicennia marina,Winged,53S
+1,6.762151305,Avicennia marina,Winged,53S
+1,4.722953222,Sonneratia alba,Connected,53S
+1,5.764407096,Sonneratia alba,Rectangular,53S
+0,6.708084084,Sonneratia alba,Rectangular,53S
+1,3.988984047,Rhizophora mucronata,Connected,53S
+1,6.98471632,Rhizophora mucronata,Connected,53S
+1,4.366278278,Sonneratia alba,Connected,53S
+1,5.429345629,Sonneratia alba,Connected,53S
+1,4.430816799,Rhizophora mucronata,Connected,53S
+1,3.784189634,Sonneratia alba,Connected,53S
+0,5.886104031,Avicennia marina,Winged,53S
+1,3.162305473,Sonneratia alba,Connected,53S
+1,7.551712215,Sonneratia alba,Connected,53S
+1,6.70930434,Avicennia marina,Winged,53S
+1,3.295836866,Avicennia marina,Winged,53S
+1,6.739336627,Rhizophora mucronata,Rectangular,53S
+1,6.340359304,Avicennia marina,Winged,53S
+1,6.982862751,Sonneratia alba,Rectangular,53S
+1,6.040254711,Sonneratia alba,Connected,53S
+0,4.882801923,Avicennia marina,Winged,53S
+1,6.353935164,Rhizophora mucronata,Connected,53S
+0,7.154615357,Avicennia marina,Winged,53S
+0,5.358941988,Avicennia marina,Winged,53S
+0,7.753086922,Sonneratia alba,Rectangular,53S
+0,7.326465614,Rhizophora mucronata,Rectangular,53S
+0,4.474491862,Sonneratia alba,Connected,53S
+0,5.529429088,Rhizophora mucronata,Connected,53S
+0,3.555348061,Avicennia marina,Winged,53S
+0,6.135564891,Avicennia marina,Winged,53S
+0,3.604138226,Avicennia marina,Winged,53S
+0,5.693732139,Sonneratia alba,Connected,53S
+0,5.529429088,Avicennia marina,Winged,53S
+0,6.061456919,Sonneratia alba,Winged,53S
+0,7.512890582,Rhizophora mucronata,Connected,53S
+0,6.799891633,Sonneratia alba,Connected,53S
+0,6.269096284,Rhizophora mucronata,Connected,53S
+0,1.386294361,Sonneratia alba,Winged,53S
+0,5.598421959,Rhizophora mucronata,Connected,54N
+0,6.356107661,Sonneratia alba,Winged,54N
+0,7.051855623,Sonneratia alba,Connected,54N
+0,2.48490665,Sonneratia alba,Rectangular,54N
+0,4.317488114,Sonneratia alba,Connected,54N
+0,1.909542505,Sonneratia alba,Rectangular,54N
+0,7.248681866,Rhizophora mucronata,Rectangular,54N
+0,6.011267174,Rhizophora mucronata,Rectangular,54N
+0,7.033506484,Sonneratia alba,Connected,54N
+0,6.587550015,Rhizophora mucronata,Rectangular,54N
+0,5.398162702,Rhizophora mucronata,Rectangular,54N
+0,5.298317367,Sonneratia alba,Connected,54N
+0,6.777076955,Sonneratia alba,Rectangular,54N
+0,5.11349268,Sonneratia alba,Connected,54N
+0,7.138867,Rhizophora mucronata,Winged,54N
+0,6.908754779,Sonneratia alba,Connected,54N
+0,5.480638923,Sonneratia alba,Connected,54N
+0,3.465735903,Sonneratia alba,Connected,54N
+1,6.476972363,Sonneratia alba,Connected,54N
+1,4.382026635,Sonneratia alba,Rectangular,54N
+1,6.572282543,Rhizophora mucronata,Rectangular,54N
+1,6.358708442,Rhizophora mucronata,Rectangular,54N
+1,6.207331689,Rhizophora mucronata,Connected,54N
+0,1.658228077,Sonneratia alba,Winged,54N
+1,1.727220948,Sonneratia alba,Winged,54N
+1,5.071259916,Rhizophora mucronata,Winged,54N
+1,4.412798293,Sonneratia alba,Rectangular,54N
+1,5.940171253,Rhizophora mucronata,Winged,54N
+1,7.113549192,Sonneratia alba,Connected,54N
+1,6.207331689,Rhizophora mucronata,Connected,54N
+1,4.069026754,Sonneratia alba,Connected,54N
+1,6.599870499,Sonneratia alba,Rectangular,54N
+1,3.624340933,Rhizophora mucronata,Connected,54N
+1,6.735186014,Sonneratia alba,Rectangular,54N
+1,5.898526551,Sonneratia alba,Winged,54N
+1,6.12249281,Rhizophora mucronata,Connected,54N
+1,5.080627666,Sonneratia alba,Connected,54N
+1,0.916290732,Rhizophora mucronata,Connected,54N
+1,6.386879319,Sonneratia alba,Rectangular,54N
+1,8.076359939,Rhizophora mucronata,Winged,54N
+1,6.684611728,Rhizophora mucronata,Connected,54N
+1,4.276666119,Sonneratia alba,Connected,54N
+1,7.197809536,Sonneratia alba,Winged,54N
+0,4.861748513,Sonneratia alba,Rectangular,54N
+1,7.899153483,Sonneratia alba,Rectangular,54N
+1,6.086774727,Rhizophora mucronata,Connected,54N
+0,3.496507561,Sonneratia alba,Connected,54N
+1,4.787491743,Rhizophora mucronata,Connected,54N
+1,2.890371758,Sonneratia alba,Rectangular,54N
+1,3.871201011,Sonneratia alba,Connected,54N
+0,4.799914263,Sonneratia alba,Connected,54N
+0,6.445719819,Sonneratia alba,Rectangular,54N
+0,6.29156914,Rhizophora mucronata,Connected,54N
+0,6.553933404,Sonneratia alba,Connected,54N
+0,6.371611847,Sonneratia alba,Connected,54N
+0,8.874867636,Rhizophora mucronata,Connected,54N
+0,6.789253235,Sonneratia alba,Connected,54N
+0,4.890349128,Sonneratia alba,Rectangular,54N
+0,6.739336627,Rhizophora mucronata,Winged,54N
+0,6.684611728,Sonneratia alba,Rectangular,54N
+0,6.989335266,Rhizophora mucronata,Rectangular,54N
+0,4.65396035,Sonneratia alba,Winged,54N
+0,5.43590303,Rhizophora mucronata,Rectangular,54N
+0,7.102499356,Rhizophora mucronata,Rectangular,54N
+0,3.465735903,Sonneratia alba,Rectangular,54N
+0,6.313548046,Rhizophora mucronata,Rectangular,54N
+0,3.295836866,Rhizophora mucronata,Connected,54N
+0,5.533883438,Sonneratia alba,Connected,54N
+0,8.259458195,Sonneratia alba,Winged,54N
+0,4.366278278,Sonneratia alba,Rectangular,54N
+0,5.966146739,Sonneratia alba,Connected,54N
+0,7.033506484,Rhizophora mucronata,Rectangular,54N
+0,6.643789733,Sonneratia alba,Rectangular,54N
+0,6.516193076,Avicennia marina,Rectangular,54N
+0,5.087596335,Avicennia marina,Rectangular,54N
+0,4.343805422,Rhizophora mucronata,Connected,54N
+0,6.148468296,Sonneratia alba,Winged,54N
+1,5.455321115,Sonneratia alba,Connected,54N
+1,7.278628942,Rhizophora mucronata,Winged,54N
+1,5.049856007,Rhizophora mucronata,Connected,54N
+1,5.529429088,Sonneratia alba,Connected,54N
+0,4.094344562,Rhizophora mucronata,Winged,54N
+1,6.186208624,Avicennia marina,Rectangular,54N
+1,8.23483028,Sonneratia alba,Connected,54N
+1,5.847882819,Avicennia marina,Rectangular,54N
+1,7.965545573,Rhizophora mucronata,Connected,54N
+1,7.566957803,Avicennia marina,Rectangular,54N
+0,2.48490665,Sonneratia alba,Winged,54N
+1,3.295836866,Sonneratia alba,Winged,54N
+1,6.327936784,Avicennia marina,Rectangular,54N
+1,7.413065722,Rhizophora mucronata,Connected,54N
+1,6.135564891,Avicennia marina,Rectangular,54N
+0,4.094344562,Rhizophora mucronata,Connected,54N
+1,4.49980967,Sonneratia alba,Connected,54N
+1,7.104965448,Rhizophora mucronata,Winged,54N
+1,6.797940413,Avicennia marina,Rectangular,54N
+1,5.97126184,Sonneratia alba,Connected,54N
+0,6.697034248,Sonneratia alba,Connected,54N
+1,3.449987546,Rhizophora mucronata,Connected,54S
+0,6.086774727,Rhizophora mucronata,Connected,54S
+0,9.349101814,Avicennia marina,Rectangular,54S
+1,5.192956851,Rhizophora mucronata,Connected,54S
+1,5.730099783,Rhizophora mucronata,Connected,54S
+1,4.818263401,Sonneratia alba,Connected,54S
+1,5.075173815,Sonneratia alba,Connected,54S
+1,4.836281907,Avicennia marina,Rectangular,54S
+1,4.17438727,Rhizophora mucronata,Connected,54S
+1,6.754604099,Sonneratia alba,Winged,54S
+1,6.340359304,Avicennia marina,Rectangular,54S
+1,8.180320875,Sonneratia alba,Winged,54S
+1,6.866933284,Sonneratia alba,Connected,54S
+1,2.1690537,Sonneratia alba,Winged,54S
+1,6.258624984,Sonneratia alba,Connected,54S
+1,6.97634807,Rhizophora mucronata,Connected,54S
+1,7.590852124,Avicennia marina,Rectangular,54S
+1,3.583518938,Sonneratia alba,Connected,54S
+1,6.579251212,Avicennia marina,Rectangular,54S
+1,2.351375257,Rhizophora mucronata,Connected,54S
+0,4.056123349,Avicennia marina,Rectangular,54S
+0,5.644120931,Sonneratia alba,Winged,54S
+1,6.040254711,Rhizophora mucronata,Winged,54S
+1,5.570251082,Rhizophora mucronata,Winged,54S
+1,4.49980967,Sonneratia alba,Connected,54S
+1,6.733401892,Avicennia marina,Rectangular,54S
+1,5.723585102,Rhizophora mucronata,Connected,54S
+1,7.104965448,Rhizophora mucronata,Connected,54S
+1,5.257495372,Avicennia marina,Rectangular,54S
+1,4.49980967,Avicennia marina,Rectangular,54S
+1,2.420368129,Sonneratia alba,Connected,54S
+1,5.123963979,Avicennia marina,Rectangular,54S
+1,6.040254711,Sonneratia alba,Connected,54S
+1,8.124150603,Sonneratia alba,Connected,54S
+1,5.247024072,Sonneratia alba,Connected,54S
+1,2.602689685,Sonneratia alba,Connected,54S
+1,4.143134726,Avicennia marina,Rectangular,54S
+1,6.204557763,Rhizophora mucronata,Winged,54S
+1,6.620073207,Rhizophora mucronata,Winged,54S
+1,6.358708442,Rhizophora mucronata,Connected,54S
+1,6.445719819,Sonneratia alba,Winged,54S
+0,3.113515309,Avicennia marina,Rectangular,54S
+1,5.123963979,Rhizophora mucronata,Rectangular,54S
+1,6.572282543,Rhizophora mucronata,Rectangular,54S
+1,4.722953222,Rhizophora mucronata,Rectangular,54S
+1,7.534762657,Sonneratia alba,Connected,54S
+1,7.620705087,Avicennia marina,Connected,54S
+1,4.566948973,Sonneratia alba,Rectangular,54S
+1,5.66296048,Avicennia marina,Connected,54S
+1,5.257495372,Sonneratia alba,Rectangular,54S
+1,6.579251212,Sonneratia alba,Rectangular,54S
+1,3.17805383,Sonneratia alba,Rectangular,54S
+1,6.327936784,Rhizophora mucronata,Rectangular,54S
+1,3.784189634,Rhizophora mucronata,Rectangular,54S
+1,5.570251082,Rhizophora mucronata,Rectangular,54S
+1,6.345636361,Rhizophora mucronata,Rectangular,54S
+1,5.123963979,Avicennia marina,Connected,54S
+1,5.647212123,Rhizophora mucronata,Rectangular,54S
+1,1.32175584,Rhizophora mucronata,Rectangular,54S
+1,3.719651113,Rhizophora mucronata,Rectangular,54S
+1,7.501772494,Avicennia marina,Connected,54S
+1,3.583518938,Avicennia marina,Connected,54S
+1,5.780743516,Rhizophora mucronata,Winged,54S
+1,6.327936784,Sonneratia alba,Rectangular,54S
+1,7.428333194,Rhizophora mucronata,Winged,54S
+1,5.533883438,Sonneratia alba,Rectangular,54S
+1,7.774855767,Sonneratia alba,Rectangular,54S
+1,3.17805383,Avicennia marina,Connected,54S
+0,5.575949103,Sonneratia alba,Rectangular,54S
+1,6.238080455,Sonneratia alba,Rectangular,54S
+1,7.327123292,Sonneratia alba,Rectangular,54S
+1,4.106767082,Avicennia marina,Connected,54S
+1,5.097577224,Avicennia marina,Connected,54S
+0,6.298949247,Sonneratia alba,Rectangular,54S
+0,1.791759469,Sonneratia alba,Winged,54S
+0,2.602689685,Sonneratia alba,Winged,54S
+0,7.321188557,Sonneratia alba,Winged,54S
+1,8.037220031,Sonneratia alba,Winged,54S
+1,5.906723319,Sonneratia alba,Rectangular,54S
+1,5.97126184,Sonneratia alba,Winged,54S
+1,3.701301974,Sonneratia alba,Winged,54S
+1,6.828712072,Avicennia marina,Connected,54S
+1,5.472270674,Rhizophora mucronata,Rectangular,57
+0,2.014903021,Avicennia marina,Connected,57
+1,7.908387159,Avicennia marina,Connected,57
+1,4.250279364,Avicennia marina,Connected,57
+1,6.792624972,Avicennia marina,Connected,57
+1,7.43838353,Sonneratia alba,Rectangular,57
+1,3.314186005,Avicennia marina,Connected,57
+1,6.786152457,Avicennia marina,Connected,57
+1,5.154735638,Avicennia marina,Connected,57
+1,7.785305183,Avicennia marina,Connected,57
+0,6.628041376,Sonneratia alba,Connected,57
+0,6.697034248,Sonneratia alba,Rectangular,57
+1,7.051855623,Rhizophora mucronata,Connected,57
+1,7.582483874,Sonneratia alba,Rectangular,57
+1,3.624340933,Sonneratia alba,Connected,57
+1,6.620073207,Rhizophora mucronata,Connected,57
+1,5.416100402,Rhizophora mucronata,Rectangular,57
+0,4.802995929,Sonneratia alba,Connected,57
+1,6.879355804,Sonneratia alba,Connected,57
+1,6.579251212,Sonneratia alba,Rectangular,57
+1,5.164785974,Sonneratia alba,Connected,57
+1,6.302618976,Rhizophora mucronata,Rectangular,57
+1,7.774855767,Rhizophora mucronata,Connected,57
+1,7.102499356,Rhizophora mucronata,Rectangular,57
+1,5.598421959,Sonneratia alba,Rectangular,57
+0,4.787491743,Sonneratia alba,Rectangular,57
+1,7.005335607,Sonneratia alba,Connected,57
+1,7.079605536,Sonneratia alba,Winged,57
+0,5.407732153,Rhizophora mucronata,Rectangular,57
+1,6.349138991,Sonneratia alba,Connected,57
+1,3.96081317,Rhizophora mucronata,Connected,57
+0,6.425679069,Sonneratia alba,Rectangular,57
+1,4.644390899,Sonneratia alba,Connected,57
+1,7.738488122,Rhizophora mucronata,Rectangular,57
+1,7.470224136,Rhizophora mucronata,Rectangular,57
+1,5.295814236,Sonneratia alba,Rectangular,57
+1,5.823045895,Rhizophora mucronata,Connected,57
+1,6.632001777,Rhizophora mucronata,Rectangular,57
+1,7.994294986,Sonneratia alba,Rectangular,57
+1,6.822197391,Rhizophora mucronata,Winged,57
+1,7.875689244,Rhizophora mucronata,Winged,57
+1,8.48467,Rhizophora mucronata,Winged,57
+1,7.179688994,Rhizophora mucronata,Winged,57
+1,8.045107396,Sonneratia alba,Rectangular,57
+1,5.521460918,Rhizophora mucronata,Rectangular,57
+1,5.906723319,Rhizophora mucronata,Connected,57
+0,5.204006687,Rhizophora mucronata,Rectangular,57
+1,5.730099783,Sonneratia alba,Connected,57
+1,4.9698133,Sonneratia alba,Winged,57
+1,4.471638793,Rhizophora mucronata,Rectangular,57
+1,5.364807108,Rhizophora mucronata,Winged,57
+1,5.703782475,Sonneratia alba,Connected,57
+1,5.33753808,Rhizophora mucronata,Rectangular,57
+1,7.387090236,Sonneratia alba,Connected,57
+1,6.388897484,Rhizophora mucronata,Connected,57
+1,5.480638923,Rhizophora mucronata,Winged,57
+1,2.862200881,Sonneratia alba,Connected,57
+1,7.699842407,Sonneratia alba,Winged,57
+0,6.29156914,Sonneratia alba,Winged,57
+1,6.920177799,Sonneratia alba,Winged,57
+1,6.473890696,Rhizophora mucronata,Connected,57
+1,7.413065722,Rhizophora mucronata,Rectangular,57
+1,5.204006687,Rhizophora mucronata,Connected,57
+1,4.526126979,Sonneratia alba,Connected,57
+1,7.958576904,Rhizophora mucronata,Winged,57
+1,7.246011637,Rhizophora mucronata,Winged,57
+1,4.718498871,Rhizophora mucronata,Connected,57
+1,6.386879319,Rhizophora mucronata,Rectangular,57
+1,4.9698133,Sonneratia alba,Winged,57
+1,5.398162702,Sonneratia alba,Rectangular,57
+1,6.492239835,Sonneratia alba,Connected,57
+1,5.886104031,Rhizophora mucronata,Rectangular,57
+1,7.920809679,Sonneratia alba,Rectangular,57
+1,5.689514503,Sonneratia alba,Rectangular,57
+0,4.905274778,Sonneratia alba,Connected,57
+1,6.761572769,Rhizophora mucronata,Rectangular,57
+1,5.743003188,Rhizophora mucronata,Rectangular,57
+0,6.061456919,Sonneratia alba,Winged,57
+1,5.455321115,Rhizophora mucronata,Connected,57
+1,7.367708572,Rhizophora mucronata,Rectangular,57
+1,7.470224136,Sonneratia alba,Connected,57
+0,6.956545443,Sonneratia alba,Rectangular,57
+1,7.390181428,Rhizophora mucronata,Rectangular,57
+1,3.871201011,Rhizophora mucronata,Rectangular,57
+1,6.011267174,Sonneratia alba,Rectangular,57
+1,6.483871585,Sonneratia alba,Rectangular,57
+1,7.086946943,Rhizophora mucronata,Connected,57
+1,6.715383386,Rhizophora mucronata,Rectangular,57
+1,5.991464547,Rhizophora mucronata,Connected,57
+1,5.598421959,Sonneratia alba,Rectangular,57
+1,6.827087376,Rhizophora mucronata,Winged,57
+1,7.051855623,Sonneratia alba,Winged,57
+1,7.640123173,Rhizophora mucronata,Rectangular,57
+1,6.741700695,Sonneratia alba,Rectangular,57
+0,5.946728653,Sonneratia alba,Winged,57
+0,7.539558829,Rhizophora mucronata,Rectangular,57
+1,0.117783036,Sonneratia alba,Rectangular,57
+0,8.472457298,Rhizophora mucronata,Rectangular,57
+0,6.12905021,Rhizophora mucronata,Connected,57
+0,5.501258211,Rhizophora mucronata,Winged,57
+0,6.104793232,Sonneratia alba,Rectangular,57
+0,7.849713758,Sonneratia alba,Winged,57
+0,7.102499356,Sonneratia alba,Connected,57
+0,7.279318835,Sonneratia alba,Connected,57
+0,5.66296048,Rhizophora mucronata,Rectangular,57
+0,7.022199413,Sonneratia alba,Connected,57
+0,3.886705197,Sonneratia alba,Rectangular,57
+0,7.344072851,Rhizophora mucronata,Rectangular,57
+0,5.703782475,Rhizophora mucronata,Connected,57
+0,5.940171253,Rhizophora mucronata,Rectangular,57
+0,6.425679069,Sonneratia alba,Winged,57
+0,5.541263545,Rhizophora mucronata,Connected,57
+0,8.011686729,Sonneratia alba,Connected,8
+0,6.253347927,Rhizophora mucronata,Connected,8
+0,9.032857092,Sonneratia alba,Rectangular,8
+0,5.66296048,Rhizophora mucronata,Rectangular,8
+0,5.233778845,Sonneratia alba,Rectangular,8
+0,7.314219887,Sonneratia alba,Rectangular,8
+0,5.639243954,Rhizophora mucronata,Connected,8
+0,6.206827911,Rhizophora mucronata,Rectangular,8
+0,6.841615476,Sonneratia alba,Winged,8
+0,5.464890566,Avicennia marina,Winged,8
+0,5.059425458,Avicennia marina,Winged,8
+0,7.246011637,Sonneratia alba,Connected,8
+0,6.148468296,Sonneratia alba,Connected,8
+0,7.633127607,Avicennia marina,Winged,8
+0,3.583518938,Sonneratia alba,Rectangular,8
+0,7.625595072,Rhizophora mucronata,Connected,8
+0,4.297285406,Sonneratia alba,Connected,8
+0,6.754604099,Sonneratia alba,Rectangular,8
+0,5.448352446,Sonneratia alba,Connected,8
+0,6.158037747,Sonneratia alba,Connected,8
+0,5.66296048,Rhizophora mucronata,Connected,8
+0,8.898877771,Sonneratia alba,Connected,8
+0,5.204006687,Rhizophora mucronata,Rectangular,8
+0,6.97634807,Avicennia marina,Winged,8
+0,4.102643365,Avicennia marina,Winged,8
+0,6.476972363,Rhizophora mucronata,Connected,8
+0,5.347107531,Avicennia marina,Winged,8
+0,6.263160139,Avicennia marina,Winged,8
+0,6.269096284,Sonneratia alba,Rectangular,8
+0,3.401197382,Sonneratia alba,Connected,8
+0,5.395897695,Sonneratia alba,Connected,8
+0,5.768320996,Avicennia marina,Winged,8
+0,6.840546529,Rhizophora mucronata,Connected,8
+0,4.548599834,Sonneratia alba,Rectangular,8
+0,5.636573725,Sonneratia alba,Rectangular,8
+0,5.418874329,Rhizophora mucronata,Connected,8
+0,5.834810737,Avicennia marina,Winged,8
+0,6.514712691,Sonneratia alba,Connected,8
+0,6.340359304,Rhizophora mucronata,Connected,8
+0,5.030437921,Rhizophora mucronata,Connected,8
+0,2.48490665,Avicennia marina,Winged,8
+0,6.040254711,Sonneratia alba,Connected,8
+0,7.426549072,Avicennia marina,Winged,8
+0,6.547502514,Sonneratia alba,Connected,8
+0,5.934894196,Sonneratia alba,Rectangular,8
+0,5.321789723,Sonneratia alba,Connected,8
+0,7.213179033,Avicennia marina,Winged,8
+0,5.213576138,Avicennia marina,Winged,8
+0,5.030437921,Sonneratia alba,Rectangular,8
+0,6.915723449,Avicennia marina,Winged,8
+0,4.675162558,Avicennia marina,Winged,8
+0,8.787525626,Rhizophora mucronata,Rectangular,8
+0,7.434847875,Avicennia marina,Winged,8
+0,5.182485551,Avicennia marina,Winged,8
+0,5.723585102,Rhizophora mucronata,Rectangular,8
+0,7.726653665,Avicennia marina,Winged,8
+0,6.28320089,Sonneratia alba,Connected,8
+0,5.000584958,Rhizophora mucronata,Connected,8
+0,6.553933404,Sonneratia alba,Connected,8
+0,5.703782475,Rhizophora mucronata,Connected,8
+0,3.871201011,Rhizophora mucronata,Connected,8
+0,5.847882819,Sonneratia alba,Connected,8
+0,6.643789733,Sonneratia alba,Winged,8
+0,7.416077773,Sonneratia alba,Winged,8
+0,6.980308472,Sonneratia alba,Winged,8
+0,5.619041246,Rhizophora mucronata,Winged,8
+0,5.375278408,Rhizophora mucronata,Connected,8
+0,6.376726948,Sonneratia alba,Winged,8
+0,7.219367478,Sonneratia alba,Rectangular,8
+0,7.29301768,Sonneratia alba,Winged,8
+0,3.80666249,Rhizophora mucronata,Winged,8
+0,6.269096284,Rhizophora mucronata,Connected,8
+0,5.66296048,Rhizophora mucronata,Connected,8
+0,6.091309882,Sonneratia alba,Rectangular,8
+0,6.234410726,Sonneratia alba,Rectangular,8
+0,3.988984047,Rhizophora mucronata,Winged,8
+0,8.032684876,Avicennia marina,Connected,8
+0,4.189654742,Rhizophora mucronata,Rectangular,8
+0,5.65248918,Avicennia marina,Connected,8
+0,6.851184927,Avicennia marina,Connected,8
+0,4.787491743,Avicennia marina,Connected,8
+0,7.049254841,Sonneratia alba,Winged,8
+0,3.218875825,Avicennia marina,Connected,8
+0,7.167037877,Sonneratia alba,Winged,8
+0,7.207859871,Avicennia marina,Connected,8
+0,8.779557456,Sonneratia alba,Winged,8
+0,5.12841833,Rhizophora mucronata,Winged,8
+0,5.743003188,Sonneratia alba,Winged,8
+0,4.742755849,Rhizophora mucronata,Rectangular,8
+0,4.836281907,Avicennia marina,Connected,8
+0,6.608000625,Sonneratia alba,Winged,8
+0,4.189654742,Rhizophora mucronata,Rectangular,8
+0,5.780743516,Avicennia marina,Connected,8
+0,4.029806041,Rhizophora mucronata,Winged,8
+0,5.634789603,Sonneratia alba,Winged,8
+0,5.123963979,Rhizophora mucronata,Winged,8
+0,5.049856007,Avicennia marina,Connected,8
+0,5.988961417,Sonneratia alba,Winged,8
+0,5.429345629,Rhizophora mucronata,Winged,8
+0,5.940171253,Rhizophora mucronata,Winged,8
+0,5.906723319,Sonneratia alba,Winged,8
+0,4.056123349,Rhizophora mucronata,Winged,8
+0,4.605170186,Avicennia marina,Connected,8
+0,6.197716231,Avicennia marina,Connected,8
+0,7.742402022,Rhizophora mucronata,Connected,8
+0,4.890349128,Sonneratia alba,Winged,8
+0,4.094344562,Rhizophora mucronata,Connected,8
+0,6.674561392,Sonneratia alba,Winged,8
+0,5.598421959,Rhizophora mucronata,Connected,8
+0,4.508108473,Sonneratia alba,Winged,8
+0,4.818263401,Rhizophora mucronata,Winged,8
+0,6.186208624,Sonneratia alba,Connected,8
+0,6.536691598,Sonneratia alba,Winged,8
+0,5.204006687,Rhizophora mucronata,Connected,8
+0,6.135564891,Rhizophora mucronata,Rectangular,8
+0,7.048277802,Avicennia marina,Rectangular,8
+0,7.045014091,Sonneratia alba,Winged,8
+0,4.250279364,Rhizophora mucronata,Winged,8
+0,4.430816799,Rhizophora mucronata,Winged,8
+0,5.278114659,Rhizophora mucronata,Winged,8
+0,5.000584958,Avicennia marina,Rectangular,8
+0,5.655991811,Rhizophora mucronata,Winged,8
+0,4.094344562,Sonneratia alba,Connected,8
+0,6.003887067,Avicennia marina,Rectangular,8

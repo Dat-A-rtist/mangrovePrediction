@@ -18,7 +18,7 @@ annsurv_df.sample(frac=1, random_state=seed)
 merged_df = pd.merge(anngrow_df, annsurv_df,how = 'inner', on = ['Species','Patch_type'])
 merged_df.drop_duplicates(inplace=True)
 final_merge = merged_df[['Species','Growth','Log_size_x','Patch_type','Survival']]
-final_merge['Species'].replace(['LE','CB'],[0,1],inplace=True)
+final_merge['Species'].replace(['Avicennia marina','Rhizophora mucronata','Sonneratia alba'],[0,1,2],inplace=True)
 final_merge['Patch_type'].replace(['Connected','Rectangular','Winged'],[0,1,2],inplace=True)
 
 X = final_merge[['Species', 'Growth', 'Log_size_x', 'Patch_type']]

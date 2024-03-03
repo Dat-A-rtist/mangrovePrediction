@@ -23,7 +23,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     species = st.selectbox("Pick your species", annsurv_df["Species"].unique())
-    species = 0 if species == 'LE' else 1
+    species = 0 if species == 'Avicennia marina' else (1 if species == 'Rhizophora mucronata' else 2)
     log_size = st.slider('Log size (cm)', 1.0, 10.0, 4.0)
 
 with col2:
