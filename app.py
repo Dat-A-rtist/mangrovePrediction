@@ -22,14 +22,12 @@ st.header("Plant Features")
 col1, col2 = st.columns(2)
 
 with col1:
-    st.text("Sepal characteristics")
     species = st.selectbox("Pick your species", annsurv_df["Species"].unique())
     species = 0 if species == 'LE' else 1
     log_size = st.slider('Log size (cm)', 1.0, 10.0, 4.0)
 
 with col2:
-    st.text("Pepal characteristics")
-    patch_type = st.selectbox("Pick your species", annsurv_df["Patch_type"].unique())
+    patch_type = st.selectbox("Select patch type", annsurv_df["Patch_type"].unique())
     patch_type = 0 if patch_type == 'Connected' else (1 if patch_type == 'Rectangular' else 2)
     growth = st.slider('Growth rate (cm3)', 1.0, 13.0, 3.0)
 
