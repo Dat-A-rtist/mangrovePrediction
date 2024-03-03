@@ -12,7 +12,7 @@ np.bool = bool    #module 'numpy' has no attribute 'bool'
 
 annsurv_df = pd.read_csv('data/Annual_survival.csv')
 
-st.title('Survival prediction of Mangrove')
+st.title('Survival prediction of Mangrove using supervised Machine Learning')
 st.markdown('This model is to predict survival of mangrove tree based on \
             the synthetic data generated for the Kingdom of Saudi Arabia \
             factoring thier species, growth rate, log size, landscape \
