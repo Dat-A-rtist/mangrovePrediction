@@ -46,7 +46,7 @@ if st.button("Predict survival"):
 st.text('')
 st.text('')
 st.markdown(
-    '`Create by` <a href="mailto:contact.datartist@gmail.com">Datartist</a>', unsafe_allow_html=True)
+    '`Created by` <a href="mailto:contact.datartist@gmail.com">Datartist</a>', unsafe_allow_html=True)
 #st.markdown(
 #    '`Create by` <a href="mailto:contact.datartist@gmail.com">Datartist</a> | \
 #         `Prediction Model used:` Random Forest Classifier', unsafe_allow_html=True)
