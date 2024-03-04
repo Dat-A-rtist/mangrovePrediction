@@ -32,7 +32,7 @@ with col1:
     log_size = st.slider('Height (m)', 1.0, 10.0, 4.0)
 
 with col2:
-    patch_type = st.selectbox("Select patch type", annsurv_df["Patch_type"].unique())
+    patch_type = st.selectbox("Select region", annsurv_df["Patch_type"].unique())
     patch_type = 0 if patch_type == 'Northern' else (
                     1 if patch_type == 'Eastern' else (
                         2 if patch_type == 'Western' else (
@@ -47,8 +47,7 @@ if st.button("Predict survival"):
     resultVal = 'Prediction result : Great chance of survival ' if result[0] == 1 else 'Prediction result : Unlikely to survive '
     resultColor = 'green' if result[0] == 1 else 'red'
     resultsmiley = ':smile:' if result[0] == 1 else ':pensive:'
-    st.markdown('<p style="font-family:Courier; color:'+resultColor+'; font-size: 20px;">'+resultVal+'</p> ', unsafe_allow_html=True)
-
+    st.write('<span style="font-family:Courier; color:'+resultColor+'; font-size: 20px;">'+resultVal+'</span> '+resultsmiley, unsafe_allow_html =True)
 st.text('')
 st.text('')
 st.markdown(
