@@ -20,7 +20,7 @@ st.sidebar.image(logo_url)
 st.title(':fallen_leaf: Survival prediction of Mangrove using supervised Machine Learning')
 st.markdown('This model is to predict survival of mangrove tree based on \
             the synthetic data generated for the Kingdom of Saudi Arabia \
-            factoring thier species, growth rate, height \
+            factoring thier species, growth rate, altitude \
             and region.')
 
 st.header("Plant Features")
@@ -29,7 +29,7 @@ col1, col2 = st.columns(2)
 with col1:
     species = st.selectbox("Pick your species", annsurv_df["Species"].unique())
     species = 0 if species == 'Avicennia marina' else (1 if species == 'Rhizophora mucronata' else 2)
-    log_size = st.slider('Height (m)', 1.0, 10.0, 4.0)
+    log_size = st.slider('Altitude (m)', 0.0, 3000.0, 1250.0)
 
 with col2:
     patch_type = st.selectbox("Select region", annsurv_df["Patch_type"].unique())

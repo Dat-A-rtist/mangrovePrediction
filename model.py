@@ -17,11 +17,12 @@ annsurv_df.sample(frac=1, random_state=seed)
 # prep and selecting features and target data
 merged_df = pd.merge(anngrow_df, annsurv_df,how = 'inner', on = ['Species','Patch_type'])
 merged_df.drop_duplicates(inplace=True)
-final_merge = merged_df[['Species','Growth','Log_size_x','Patch_type','Survival']]
+
+final_merge = merged_df[['Species','Growth','Altitude_x','Patch_type','Survival']]
 final_merge['Species'].replace(['Avicennia marina','Rhizophora mucronata','Sonneratia alba'],[0,1,2],inplace=True)
 final_merge['Patch_type'].replace(['Northern','Eastern','Western','Southern','Central'],[0,1,2,3,4],inplace=True)
 
-X = final_merge[['Species', 'Growth', 'Log_size_x', 'Patch_type']]
+X = final_merge[['Species', 'Altitude_x', 'Patch_type', 'Growth']]
 y = final_merge[['Survival']]
 
 # split data into train and test sets
@@ -39,6 +40,7 @@ y_pred = clf.predict(X_test)
 
 # calculate accuracy
 accuracy = accuracy_score(y_test, y_pred) #Accuracy: 0.8710196722367107
+#accuracry after altitude Accuracy: 0.6318853560232871
 #accuracy changed after manual file update to Accuracy: 0.5597782290558618
 #accuracy after region update Accuracy: 0.6329302881027019
 print(f"Accuracy: {accuracy}")
